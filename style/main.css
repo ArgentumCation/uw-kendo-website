@@ -23,7 +23,7 @@ body {
   max-height: 70vh;
   object-fit: contain;
   border-radius: 5px;
-  box-shadow: 4px 5px 7px #0000007a;
+  box-shadow: 4px 5px 7px #0000004a;
 }
 /* Header Styling */
 header {
@@ -35,7 +35,7 @@ header {
   z-index: 2;
   width: 100%;
   position: fixed;
-  box-shadow: 0px 7px 20px -10px black;
+  box-shadow: 0px 7px 20px -10px #000000ba;
   top:0;
 
 }
@@ -81,6 +81,18 @@ header a{
   color: white;
 }
 
+/*footer*/
+footer {
+  padding-left: 1em;
+  position: fixed;
+  bottom: 0;
+  left:12em;
+  width: 100%;
+  background-color: white;
+  display: none;
+
+}
+
 /*Navbar Styling*/
 nav {
   background-color: var(--header-bg-color);
@@ -89,7 +101,7 @@ nav {
   width: 12em;
   position: fixed;
   text-decoration: none;
-  box-shadow: -2px 5px 20px 0px black;
+  box-shadow: 4px 7px 20px 0px #00000082;
   z-index: 1;
 }
 
@@ -174,7 +186,7 @@ section{
   margin: 1em;
   padding: 1em;
   border-radius: 1em;
-  box-shadow: 4px 5px 7px #0000007a;
+  box-shadow: 4px 5px 7px #0000003a;
 }
 
 section li {
