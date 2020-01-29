@@ -129,7 +129,7 @@ nav {
   height: 100%;
   width: 12em;
   position: fixed;
-  text-decoration: none;
+  /* text-decoration: none; */
   /* box-shadow: -2px 5px 20px 0px black; */
   z-index: 1;
   border: 2px solid black;
@@ -140,7 +140,7 @@ nav ul {
   list-style: none;
   padding: 0;
   /* color: white; */
-  font-weight: bold;
+  /* font-weight: bold; */
 }
 
 /* Optional: Style the caret down icon */
@@ -184,9 +184,9 @@ nav li p {
 
 /* stop links from being underlined */
 nav li a {
-  text-decoration: none;
+  /* text-decoration: none; */
   padding-left: 1em;
-  font-weight: bold;
+  /* font-weight: bold; */
   /* color: white; */
 }
 
@@ -297,7 +297,7 @@ h2 {
   }
 
   header a {
-    text-decoration: none;
+    /* text-decoration: none; */
     /* color:white; */
   }
 
