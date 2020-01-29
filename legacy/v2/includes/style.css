@@ -1,0 +1,93 @@
+body{
+ 	margin: 0;
+	padding: 0 0 10px 125px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	background: black url(ShinaiC.jpg) no-repeat fixed -40px -85px;
+	color: #DAC03E;
+	max-height: 1024px;
+	text-align: center;
+}
+
+a:link, font.pcolor, div#about div.title, div#alumni div.title, div#main div.title, div#alumni p:first-line {
+	background-color: transparent;
+	color: #925CC2;
+}
+
+a:visited {
+	background-color: transparent;
+	color: #DAC03E;
+}
+
+div#about div.title, div#FAQ p:first-line, div#FAQ a:link, div#FAQ a:visited, TD{
+	font-weight: bold;
+}
+
+div#awards font.pcolor, div.photos font.pcolor, font.titles {
+	font-size: 1.5em;
+}
+
+div#contact, div#FAQ, div#alumni, div#guestbook {
+	text-align: left;
+}
+
+div.content{
+	padding-left: 75px;
+	padding-right: 50px;
+	background: url(kendokanji.gif) repeat-y 45% -105px;
+}
+
+div#FAQ, div#guestbook, i{
+	font-weight: normal;
+}
+
+div#footer{
+	background: black;
+}
+
+div#heading{
+	margin-top: 5px;
+}
+
+div#sidebar1{
+	background: url(MenuBack.gif);
+	opacity: .5;
+	filter: alpha(opacity=50);
+}
+
+div#sidebar1, div#sidebar2{
+	position:absolute;
+	top:0;
+	left:0;
+	width:100px;
+	height: 335px;
+	margin-top: 150px;
+	margin-left: 30px;
+}
+
+div.title{
+	font-size: 1.75em;
+}
+
+font.smalltitle {
+	font-size: 1.25em;
+}
+
+li {
+	list-style-type: disc;
+}
+
+@media screen{
+	body>div#sidebar1, body>div#sidebar2{
+		position:fixed;
+	}
+}
+
+* html body{
+	overflow:hidden;
+}
+
+* html div#rightside{
+	height:100%;
+	overflow:auto;
+}

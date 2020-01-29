@@ -1,0 +1,30 @@
+<?
+if (!defined('PAGEDISPLAY'))
+	exit;
+
+$mainContent = <<<ENDOFTEXT
+
+<!-- <img src="images/kendo.jpg" alt="" id="mainPic" /> -->
+<img src="images/uwkc2009.png" alt="UWKC 2009" id="mainPic" />
+
+
+
+
+<p>
+<strong><span class="subtitle">Spring Schedule</span><br /></strong>
+March 31st to June 4<br />
+Exceptions will be announced during practice and posted to the mailing list.<br />
+<br />
+<span class="subtitle">Wednesdays and Fridays</span><br />
+IMA (Studio 216 and 316)<br />
+7:00pm - 9:00pm<br />
+<br />
+(Iaido on Wednesdays 9:00pm - 9:30pm)<br />
+<br />
+
+Where's the IMA? Why it's <a href="http://www.washington.edu/home/maps/?IMA">here</a>!
+</p>
+
+ENDOFTEXT;
+
+?>

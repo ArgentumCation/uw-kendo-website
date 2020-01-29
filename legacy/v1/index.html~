@@ -1,0 +1,122 @@
+<HTML>
+
+
+
+  <TITLE>Kendo Club @ the UW</TITLE>
+
+
+
+<BODY bgcolor="#FFFFFF" text="#000000">
+
+<TABLE border = "0" cellpadding = "0" cellspacing = "0" width="75%">
+
+  <TD align = "center" valign = "top" width="600"> 
+
+      <CENTER>
+
+        <p><img src="images/mainlogo.gif" width="400" height="220" alt="Welcome to the Kendo Club Site!"> 
+
+          <BR>
+
+          <font face="Arial, Helvetica, sans-serif"><BR>
+
+          | <a href="about.html">about</a> | <a href="photos.html">photos</a> 
+
+          | <a href="hardware.html">hardware</a> | <a href="links.html">links</a> 
+
+          |<br>
+
+          <br>
+
+          News:</font></p>
+
+        <table width="75%" border="0">
+
+          <tr> 
+
+            <td height="16" width="17%"><font face="Arial, Helvetica, sans-serif" size="-1">2002.12.02</font></td>
+
+            <td height="16" width="83%"><font face="Arial, Helvetica, sans-serif" size="-1">
+             <p>
+Winter quarter is here! Come one, come all, but if you are joining the beginner class this quarter, <b>come before January 22nd!</b>. Once again, if you want to join, you must join before the third week of the quarter if you wish to receive instruction. 
+</p>
+              </font></td>
+
+          </tr>
+
+        </table>
+
+        <p><font face="Arial, Helvetica, sans-serif"> <BR>
+
+          <b> WINTER QUARTER PRACTICE SCHEDULE: (January 8th - March 14th)</b><BR>
+
+          </font></p>
+
+        <TABLE border = "0">
+
+            <TD align = "left"> <b><font face="Arial, Helvetica, sans-serif">Wednesdays</font></b><font face="Arial, Helvetica, sans-serif"><BR>
+
+              Hec Ed Annex (North Court)<BR>
+
+              7:00pm - 9:00pm</font><BR>
+
+          </TD>
+
+          <TD width = "50"> </TD>
+
+            <TD align = "right"> <b><font face="Arial, Helvetica, sans-serif">Fridays</font></b><font face="Arial, Helvetica, sans-serif"><BR>
+
+              Hec Ed Annex (North Court)<BR>
+
+              7:00pm - 9:00pm<BR>
+
+              </font> </TD>
+
+          
+
+        </TABLE>
+
+        <TABLE border = "0" width="315">
+            <TD align = "left"> 
+              <div align="center"><font face="Arial, Helvetica, sans-serif">Hec Ed is located <A HREF= "http://www.washington.edu/students/maps/map.cgi?EDP">here</A>.<br>
+
+</font> 
+</div>
+            </TD>
+
+          
+
+        </TABLE>
+
+        <font face="Arial, Helvetica, sans-serif"><BR>
+
+        <BR>
+
+        If you're a UW student, staff or faculty member who is interested in kendo, 
+
+        please go to the <A href = "about.html">about</A> page for more information 
+
+        on joining the club. <BR>
+
+        <BR>
+
+        <BR>
+
+        Questions? Comments? Bugs on the page? Send mail to <A href = "mailto:uwkc@u.washington.edu">uwkc@u.washington.edu</A>. 
+
+        </font> 
+
+      </CENTER>
+
+  </TD>
+
+</TABLE>
+
+
+
+  </BODY>
+
+
+
+</HTML>
+

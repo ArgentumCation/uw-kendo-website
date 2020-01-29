@@ -1,0 +1,18 @@
+<p>
+	<span class="subtitle">Fall Schedule</span><br>
+	September 28th - December 9th<br>
+	<br>
+
+	<span class="subtitle">Kendo</span><br>
+	7:00 - 9:00 PM <br>
+	Wednesday and Friday<br><br>
+
+	<span class="subtitle">Iaido</span><br>
+	9:00 - 9:30 PM<br> 
+	Wednesday only<br><br>
+
+	<span class="subtitle">Locations</span><br>
+	Wednesday: <span class="yellow"><b>IMA Gym B</b></span><br> 
+	Friday: <span class="yellow"><b>IMA Studio 216</b></span><br>
+	The IMA is located <a href="http://www.washington.edu/home/maps/?IMA">here</a>!
+</p>

@@ -1,0 +1,307 @@
+<HTML>
+
+  <TITLE>Homepage of the Kendo Club @ the UW</TITLE>
+
+<BODY bgcolor="#FFFFFF" text="#000000">
+<TABLE border = "0" cellpadding = "0" cellspacing = "0">
+    <TD valign = "top"> <img src="images/about.gif" width="400" height="200"><br>
+      <font face="Arial, Helvetica, sans-serif">| <b>about</b> | <a href="photos.html">photos</a> 
+      | <a href="hardware.html">hardware</a> | <a href="links.html">links</a> 
+      |</font> <br>
+      <br>
+      <TABLE border = "0" cellpadding = "0" cellspacing = "0">
+        <TD valign = "center"> <IMG src = "cranebullet.gif" border = "0"> </TD>
+        <TD valign = "center"> <FONT size = "4" face = "Garamond, Arial"><B>&nbsp;About 
+          Kendo</B></FONT><BR>
+        </TD>
+      </TABLE>
+      <font face="Arial, Helvetica, sans-serif"><BR clear = "left">
+      What is Kendo? In two words, Kendo is Japanese Fencing. For a better in-depth 
+      definition than we could possibly provide, please click <A href = "http://www.kendo-usa.org/abtken.htm">here</A>. 
+      <BR>
+      <BR>
+      </font>
+      <TABLE border = "0" cellpadding = "0" cellspacing = "0">
+        <TD valign = "center"> <IMG src = "cranebullet.gif" border = "0"> </TD>
+        <TD valign = "center"> <FONT size = "4" face = "Garamond, Arial"><B>&nbsp;Overview/Membership 
+          Eligibility</B></FONT><BR>
+        </TD>
+      </TABLE>
+      <font face="Arial, Helvetica, sans-serif"><BR clear = "left">
+      The Kendo Club at the University of Washington is a sports club sponsored 
+      by the University of Washington Department of Intramural Athletics. Guests 
+      are welcome to practice with us. However, membership in the club is limited 
+      to University of Washington students, faculty and staff. <BR>
+      <BR>
+      The Kendo Club at the University of Washington is a recognized member dojo 
+      of the Pacific Northwest Kendo Federation and the All United States Kendo 
+      Federation. Members of the club are eligible to become members in good standing 
+      of both federations and are entitled to all privileges of the same. <BR>
+      <BR>
+      No martial arts experience is necessary to join the club. Kendo is a martial 
+      art that can be practiced regardless of age, experience or physical condition. 
+      If you are interested in joining the club, we highly encourage you to come 
+      down and observe a practice to see if Kendo is for you. Consult the <A href = "#faq">FAQ</A> 
+      below for answers to some common questions. <BR>
+      <BR>
+      </font>
+      <TABLE border = "0" cellpadding = "0" cellspacing = "0">
+        <TD valign = "center"> <IMG src = "cranebullet.gif" border = "0"> </TD>
+        <TD valign = "center"> <FONT size = "4" face = "Garamond, Arial"><B>&nbsp;About 
+          Practice</B></FONT><BR>
+        </TD>
+      </TABLE>
+      <font face="Arial, Helvetica, sans-serif"><BR clear = "left">
+      The Kendo Club at the University of Washington meets twice a week, on Wednesdays 
+      and Fridays. The club does not meet/practice during academic breaks. Practices 
+      on Wednesday nights are led by guest instructor Jeffrey Marsten. Wednesday 
+      night practices include basic drills, waza, and keiko. After practice there 
+      is an iaido clinic led by instructor Tom Bolling. Friday night practices 
+      are lead by club advisor Dean Dejong and feature basic drills, waza, keiko, 
+      and kendo kata(forms). <BR>
+      <BR>
+      </font>
+      <TABLE border = "0" cellpadding = "0" cellspacing = "0">
+        <TD valign = "center"> <IMG src = "cranebullet.gif" border = "0"> </TD>
+        <TD valign = "center"> <FONT size = "4" face = "Garamond, Arial"><B>&nbsp;Instructors</B></FONT><BR>
+        </TD>
+      </TABLE>
+      <font face="Arial, Helvetica, sans-serif"><BR clear = "left">
+      Our club is blessed to have the help of the following instructors in improving 
+      our Kendo:<BR>
+      <BR>
+      </font>
+      <CENTER>
+        <TABLE width = "500" border = "0" cellspacing = "0" cellpadding = "0" align = "center">
+          <TR> 
+            <TD colspan = "2"> <font face="Arial, Helvetica, sans-serif"><B>Club 
+              Advisor</B></font> <font face="Arial, Helvetica, sans-serif"><BR>
+              </font></TD>
+          </TR>
+          <TR valign = "top"> 
+            <TD align = "left"> <font face="Arial, Helvetica, sans-serif"><U>Dean 
+              DeJong</U> </font></TD>
+            <TD align = "right"><font face="Arial, Helvetica, sans-serif"> Kendo 
+              4th Dan<BR>
+              Assistant Instructor, Highline Kendo Kai<BR>
+              <Br>
+              </font></TD>
+          </TR>
+          <TR> 
+            <TD colspan = "2"> <font face="Arial, Helvetica, sans-serif"><B>Guest 
+              Instructors</B></font> <font face="Arial, Helvetica, sans-serif"><BR>
+              </font></TD>
+          </TR>
+          <TR valign = "top"> 
+            <TD align = "left"> <font face="Arial, Helvetica, sans-serif"><U>Jeffrey 
+              Marsten</U> </font></TD>
+            <TD align = "right"><font face="Arial, Helvetica, sans-serif"> Kendo 
+              Renshi 7th Dan<BR>
+              Head Instructor, Highline Kendo Kai/Bellevue Kendo Club<BR>
+              Former President, All United States Kendo Federation<BR>
+              <BR>
+              </font></TD>
+          </TR>
+          <TR valign = "top"> 
+            <TD align = "left"> <font face="Arial, Helvetica, sans-serif"><U>David 
+              Yotsuuye</U> </font></TD>
+            <TD align = "right"><font face="Arial, Helvetica, sans-serif"> Kendo 
+              6th Dan, Iaido 1st Dan<BR>
+              Assistant Instructor, Bellevue Kendo Club<BR>
+              <BR>
+              </font></TD>
+          </TR>
+          <TR valign = "top"> 
+            <TD align = "left"> <font face="Arial, Helvetica, sans-serif"><U>Thomas 
+              Bolling</U> </font></TD>
+            <TD align = "right"><font face="Arial, Helvetica, sans-serif"> Kendo 
+              4th Dan, Iaido 5th Dan<BR>
+              Assistant Instructor, Bellevue Kendo Club<BR>
+              <BR>
+              </font></TD>
+          </TR>
+        </TABLE>
+      </CENTER>
+      <TABLE border = "0" cellpadding = "0" cellspacing = "0">
+        <TD valign = "center"> <IMG src = "cranebullet.gif" border = "0"> </TD>
+        <TD valign = "center"> <FONT size = "4" face = "Garamond, Arial"><B>&nbsp;Club 
+          Officers</B></FONT><BR>
+        </TD>
+      </TABLE>
+      <font face="Arial, Helvetica, sans-serif"><BR clear = "left">
+      These are the officers for the 2002 - 2003 school year:<BR>
+      <BR>
+      </font>
+      <CENTER>
+        <TABLE width = "300" border = "0" cellspacing = "0" cellpadding = "0" align = "center">
+          <TR valign = "top"> 
+            <TD align = "left" width="172"> <font face="Arial, Helvetica, sans-serif"><U>Elizabeth 
+              Shin </U></font></TD>
+            <TD align = "right" width="128"><font face="Arial, Helvetica, sans-serif"> 
+              President<BR>
+              <BR>
+              </font></TD>
+          </TR>
+          <TR valign = "top"> 
+            <TD align = "left" width="172"> <font face="Arial, Helvetica, sans-serif"><U>Emmalee Deming</U> </font></TD>
+            <TD align = "right" width="128"><font face="Arial, Helvetica, sans-serif"> 
+              Vice President<BR>
+              <BR>
+              </font></TD>
+          </TR>
+          <TR valign = "top"> 
+            <TD align = "left" width="172"> <font face="Arial, Helvetica, sans-serif"><U>Andy 
+              Parker </U> </font></TD>
+            <TD align = "right" width="128"><font face="Arial, Helvetica, sans-serif"> 
+              Treasurer<BR>
+              <BR>
+              </font></TD>
+          </TR>
+           <TR valign = "top"> 
+            <TD align = "left" width="172"> <font face="Arial, Helvetica, sans-serif"><U>Eric 
+              Lam </U> </font></TD>
+            <TD align = "right" width="128"><font face="Arial, Helvetica, sans-serif"> 
+              Secretary<BR>
+              <BR>
+              </font></TD>
+          </TR>
+          <TR valign = "top"> 
+            <TD align = "left" width="172"> <font face="Arial, Helvetica, sans-serif"><u>Daniel 
+              MacDonald </u> </font></TD>
+            <TD align = "right" width="128"><font face="Arial, Helvetica, sans-serif"> 
+              Public Affairs / Webmaster<BR>
+              <BR>
+              </font></TD>
+          </TR>
+        </TABLE>
+        <TABLE border = "0" cellpadding = "0" cellspacing = "0" ALIGN="left">
+          <TD valign = "left"> <IMG src = "cranebullet.gif" border = "0"> </TD>
+          <TD valign = "left"> <FONT size = "4" face = "Garamond, Arial"><B>&nbsp;Mailing 
+            List</B></FONT><BR>
+          </TD>
+        </TABLE>
+        <TABLE width = "300" border = "0" cellspacing = "0" cellpadding = "0" align = "center">
+          <TR valign = "top"> 
+            <TD align = "left"> <font face="Arial, Helvetica, sans-serif"><BR clear = "left">
+              If you're interested in keeping up to date with all the happenings 
+              and events of the UW Kendo Club, feel free to subscribe to our mailing 
+              list: uwkendo. <BR>
+              <BR>
+              <A HREF="mailto:listproc@u.washington.edu">listproc@u.washington.edu</A><BR>
+              To subscribe, put in the message body:<BR>
+              subscribe uwkendo (your name)<BR>
+              To unsubscribe, put in the message body:<BR>
+              unsubscribe uwkendo<BR>
+              For more information on how to tweak your mailing list options, 
+              click <A HREF="http://www.washington.edu/computing/listproc/subscribers/subscribe.html">here</A>. 
+              <BR>
+              </font> </TD>
+          </TR>
+        </TABLE>
+        </CENTER>
+      <TABLE border = "0" cellpadding = "0" cellspacing = "0">
+        <TD valign = "center"> <IMG src = "cranebullet.gif" border = "0"> </TD>
+        <TD valign = "center"> <FONT size = "4" face = "Garamond, Arial"><B>&nbsp;Guests</B></FONT><BR>
+        </TD>
+      </TABLE>
+      <font face="Arial, Helvetica, sans-serif"><BR clear = "left">
+      In accordance with the Pacific Northwest Kendo Federation open-door policy, 
+      guests are welcome to practice with the club free of charge. However, during 
+      some quarters the club practices within the UW Intramural Activities building 
+      (IMA)-- a facility open only to University of Washington students, faculty 
+      and staff. In the event of this happening, please <A href = "mailto:uwkc@u.washington.edu">contact 
+      us</A> to get on the pass list. This quarter, we are practicing in the Hec 
+      Ed Pavillion Annex. This means visiting is no problem. Please come join 
+      us for practice! <BR>
+      <BR>
+      <A name = "faq"></a> </font>
+      <TABLE border = "0" cellpadding = "0" cellspacing = "0">
+        <TD valign = "center"> <IMG src = "cranebullet.gif" border = "0"> </TD>
+        <TD valign = "center"> <FONT size = "4" face = "Garamond, Arial"><B>&nbsp;Frequently 
+          Asked Questions</B></FONT><BR>
+        </TD>
+      </TABLE>
+      <p><font face="Arial, Helvetica, sans-serif"><B>I've never done kendo, can 
+        I join the club?</B><BR>
+        <BR>
+        Absolutely. The club has a very strong beginner program. No prior experience 
+        is necessary. The best time to join is during the beginning of each quarter, however you are welcome to join at any time.<BR>
+        <BR>
+        <B>Do I have to be in good shape?</B><BR>
+        <BR>
+        No. While it certainly does help to be in good physical shape, it certainly 
+        isn't necessary. The act of training conditions the body to do the art.<BR>
+        <BR>
+        <B>Does it hurt?</B><BR>
+        <BR>
+        A little. The most common injuries for beginners is a blistered left foot. 
+        This injury becomes less and less common as footwork improves. <BR>
+        <BR>
+        The most common injury that intermediate practitioners suffer is a bruised 
+        right wrist or hand. In general, the chance of suffering injury as a result 
+        of diligently practicing proper kendo are very low.<BR>
+        <BR>
+        <B>Does the club participate in tournaments?</B><BR>
+        <BR>
+        Yes. The club participates in several regional tournaments throughout 
+        the year. These range from local tournaments, such as the Pacific Northwest 
+        Kendo Federation Annual Taikai in November to tournaments in Canada such 
+        as the Steveston Taikai in February. The club also hosts the University 
+        of Washington Invitational Kendo Taikai every April.<BR>
+        <BR>
+        <B>Does the club sell all of the necessary equipment?</B><BR>
+        <BR>
+        Yes. We sell shinai, bokken, and uniforms. It is also possible to get 
+        armor through the club, though we loan out sets to use. If you wish to 
+        purchase armor or other kendo-related equipment, that can also be done 
+        through the club.<BR>
+        <BR>
+        <B>How much does it all cost?</B><BR>
+        <BR>
+        Club dues are $10/quarter. PNKF membership dues are $20/year. AUSKF membership 
+        dues are $36/year. Regional federation membership entitles members to 
+        participate in tournaments, promotional exams and seminars. Membership 
+        in the PNKF also entitles members to take advantage of the "open door" 
+        policy, which allows all PNKF members to practice at other PNKF member 
+        dojos free of charge.<BR>
+        <BR>
+        Compared to other martial arts, this is relatively cheap. The major cost 
+        is in equipment purchases. However, many of these purchases are one-time 
+        only. The first purchase a beginner is required to make is a bokken (solid 
+        wooden sword used for swinging/form practice) which costs about $18. After 
+        a month or so, students must purchase a shinai (split bamboo sword used 
+        for striking) which costs anywhere from $20-$25. Sometime in the first 
+        two quarters, it is recommended that students purchase uniforms. A complete 
+        set consisting of keikogi (light jacket) and hakama (pleated trousers) 
+        starts at $100. <BR>
+        <BR>
+        This may seem expensive at first, but keep in mind that these costs can 
+        be distributed over the period of two or three quarters. Easily the most 
+        expensive purchase in kendo is the bogu (armor). A decent set costs anywhere 
+        from $500-$1000. However, the club loans out sets to qualified members 
+        for free (free is good). <BR>
+        <BR>
+        Keep in mind that much of this equipment will last for several years-- 
+        making the overall expense far less than what many different arts charge 
+        in monthly dues alone.<BR>
+        <br>
+        <b>I am not a current UW student, can I still practice at UW?</b><br>
+        <br>
+        Non-students/staff/faculty may not join the club as members, but members 
+        of the Pacific Northwest Kendo Federation may practice as guests. The 
+        Seattle area boasts a number of excellent dojos, if you are simply interested 
+        in learning Kendo and are not affiliated with UW then please see our links 
+        page to find out about other local dojos.<br>
+        </font><font face="Arial, Helvetica, sans-serif"><BR>
+        <B>I have more questions. Who can I contact?</B><BR>
+        <BR>
+        For questions/issues regarding the club or this site, send mail to: <A href = "mailto:uwkc@u.washington.edu">uwkc@u.washington.edu</A>. 
+        For questions regarding kendo in general, please contact our club president, Elizabeth Shin. </font></p>
+      </TD>
+  
+</TABLE>
+
+  </BODY>
+
+</HTML>
+

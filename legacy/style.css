@@ -1,0 +1,315 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	padding: 10px;
+	margin: 0px;
+}
+
+post {
+	color: red;
+}
+
+blogsmall {
+	color: gray;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 10px;
+	padding: 10px;
+	margin: 0px;
+}
+
+#container {
+	width: 1000px;
+	padding: 0;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#main1 {
+	margin-top: 10px;
+	padding:0;
+}
+
+#main2 {
+	margin:0; padding:0;
+}
+
+#news {
+	float: right;
+	width: 210px;
+	margin-left: 5px; 
+	padding: 0;
+}
+
+#facebook {
+	float: left;
+}
+
+#middle {
+	margin: 0 215px 0 195px;
+}
+
+.cleaner {
+	clear:both;
+	height:1px;
+	font-size:1px;
+	border:none;
+	margin:0; padding:0;
+	background:transparent;
+}
+
+h1.navi {
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+}
+
+/* Corner stuff */
+
+#navi {
+	float: left;
+	width: 190px;
+	margin: 0; 
+	padding: 0;
+	color: #fff;
+	background: #131313 url("images/navimen.gif") no-repeat top left;
+}
+
+#naviContent {
+	padding: 0 10px;
+}
+
+#naviContent ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	text-align: right;
+}
+
+#naviContent ul ul {
+	margin-top: 5px;
+}
+
+#naviContent ul a {
+	margin-right: 10px;
+	color: #dbc03f;
+	font-family: Tahoma, copperplate gothic bold, Georgia, serif;
+	font-size: 16pt;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+#naviContent ul a:hover, #naviContent ul ul a:hover {
+	color: white;
+}
+
+
+#naviContent ul ul a {
+	font-size: 12pt;
+	text-transform: lowercase; 
+}
+
+#naviContent ul li {
+	padding-top: 5px;
+	padding-bottom: 10px;
+	background: url("images/naviSep.png") no-repeat bottom right;
+}
+
+#naviContent ul li ul li {
+	padding-bottom: 10px;
+	background: none;
+}
+
+#naviContent li.last {
+	background: none;
+}
+
+.roundtop { 
+	background: url("images/corner_t2.gif") no-repeat top right; 
+}
+
+.roundtop div {
+	width: 9px;
+	height: 9px;
+	background: url("images/corner_t1.gif") no-repeat top left;
+}
+
+.roundbottom {
+	background: url("images/corner_b2.gif") no-repeat bottom right; 
+}
+
+.roundbottom div {
+	width: 9px;
+	height: 9px;
+	background: url("images/corner_b1.gif") no-repeat bottom left;
+}
+
+#middle .roundbottom {
+	width: 100%;
+	float: left;
+	background-color: #131313;
+}
+
+#news .roundbottom {
+	width: 100%;
+	float: right;
+	background-color: #131313;
+}
+
+img.corner {
+   width: 9px;
+   height: 9px;
+   border: none;
+   display: block !important;
+}
+
+img.alignleft {
+	float:left; 
+	margin:0 1em 1em 0
+}
+
+#subnavi a, #newsTab div {
+	font-family:Tahoma, Georgia, serif;
+	height: 40px;
+	font-size: 17px;
+	color: white;
+	background-color: black;
+	text-decoration: none;
+	padding-left: 15px;
+	margin-right: 2px;
+	font-weight: bold;
+}
+
+#newsTab div {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-variant: normal;
+	margin-right: 0px;
+}
+
+#news {
+	padding: 0;
+	margin: 0;
+}
+
+#newsTab div {
+	width:32%;
+}
+
+#newsTab div, #newsTab div span {
+	display: block;
+	float: right;
+}
+
+#subnavi a span {
+	padding: 0 5px;
+}
+
+#subnavi a, #subnavi a span {
+	display: block;
+	float: left;
+}
+
+/* Hide from IE5-Mac \*/
+#subnavi a, #subnavi a span {
+	float: none;
+}
+/* End hide */
+
+#subnavi a:hover, #subnavi a.selected, #newsTab div {
+	color: #dbc03f;
+	background: #131313 url("images/corner_t1.gif") left top no-repeat;
+	padding-left: 15px;
+}
+
+#subnavi a:hover span, #subnavi a.selected span, #newsTab div span {
+	background: url("images/corner_t2.gif") right top no-repeat;
+	padding-right: 15px;
+}
+
+#subnavi a span {
+	padding: 5px 15px 5px 0px;
+	background-color: black;
+}
+
+#newsTab div span {
+	padding: 5px 15px 5px 0px;
+	color: #dbc03f;
+}
+
+#subnavi {
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+
+#subnavi li {
+	float: left;
+	margin: 0;
+}
+
+#mainContent {
+	width: 100%;
+	float: left;
+	background: #131313 url("images/corner_t2.gif") right top no-repeat;
+}
+
+#newsContent {
+	width: 100%;
+	float: right;
+	background: #131313 url("images/corner_t1.gif") left top no-repeat;
+}
+
+#mainContent p, #newsContent p {
+	margin: 8px 0;
+	padding: 0 10px;
+}
+
+#mainContent #mainPic {
+	display: block;
+	margin: 0 auto;
+	padding: 10px 0;
+}
+
+#logos {
+	float: right;
+}
+
+a:link {
+	//color: #6b3c89;
+	color: #dbc03f;
+	text-decoration: none
+}
+
+a:visited {
+	//color: #532c6b;
+	color: #dbc03f;
+	text-decoration: none
+}
+
+a:active {
+	color: #6b3c89;
+}
+
+a:hover {
+	color: #9562b5;
+}
+
+.subtitle {
+	font-size: 18px;
+	color: #dbc03f;
+}
+
+.subtitle i {
+	font-size: 14px;
+	color: #dbc03f;
+}
+
+.yellow {
+	font-size: 14px;
+	color: #dbc03f;
+}
+
+img {
+	border-style: none;
+}

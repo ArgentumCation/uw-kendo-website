@@ -1,0 +1,10 @@
+# robots.txt for http://students.washington.edu/uwkc
+
+User-agent: *
+Disallow: /gb.php
+Disallow: /gb.php?x=sign
+Disallow: /gb.php?x=view
+
+Disallow: /harming_humans
+Disallow: /ignoring_human_orders
+Disallow: /harm_to_self
