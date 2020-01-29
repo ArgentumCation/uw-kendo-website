@@ -215,7 +215,7 @@ section {
   border: 2px dashed black;
   margin: 1em;
   padding: 1em;
-  font-family: Papyrus,fantasy,sans-serif; 
+  font-family: Papyrus,sans-serif; 
   /* border-radius: 1em; */
   /* box-shadow: 4px 5px 7px #0000007a; */
 }
