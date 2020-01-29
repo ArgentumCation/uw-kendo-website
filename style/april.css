@@ -137,6 +137,7 @@ footer {
 }
 
 footer p{
+  font-family: "Comic Sans MS","Comic Sans", cursive, serif;
   animation: blink-animation 3s steps(5, start) infinite;
   -webkit-animation: blink-animation 3s steps(5, start) infinite;
   margin: 0;
