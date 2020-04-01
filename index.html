@@ -11,9 +11,10 @@
 <body>
     <audio id="my_audio" src="bg.mp3" loop="loop"></audio>
     <script>
-        window.onload = function() {
+        document.getElementById("my_audio").play();
+        window.addEventListener('scroll', function() {
             document.getElementById("my_audio").play();
-        }
+        });
     </script>
     <header></header>
     <nav id="navbar"></nav>
