@@ -2,7 +2,27 @@
 
 <head>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <link rel="stylesheet" href="style/april.css">
+    <script>
+        console.log("test");
+        // Get HTML head element
+        var head = document.getElementsByTagName('HEAD')[0];
+
+        // Create new link Element
+        var link = document.createElement('link');
+
+        // set the attributes for link element
+        link.rel = 'stylesheet';
+        var d = new Date();
+        if (d.getDate() == 1 && d.getMonth() == 3) {
+            link.href = "style/april.css";
+        } else {
+            link.href = "style/main.css";
+        }
+        // Append link element to HTML head
+        head.appendChild(link);
+    </script>
+
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta charset="UTF-8">
     <title>Kendo Club at University of Washington</title>
@@ -11,10 +31,13 @@
 <body>
     <audio id="my_audio" src="bg.mp3" loop="loop"></audio>
     <script>
-        document.getElementById("my_audio").play();
-        window.addEventListener('scroll', function() {
+        var d = new Date();
+        if (d.getDate() == 1 && d.getMonth() == 3) {
             document.getElementById("my_audio").play();
-        });
+            window.addEventListener('scroll', function() {
+                document.getElementById("my_audio").play();
+            });
+        }
     </script>
     <header></header>
     <nav id="navbar"></nav>
