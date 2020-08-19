@@ -1,0 +1,77 @@
+nav{
+  grid-area: Nav;
+  background-color: #333;
+  width: 14rem;
+  color: white;
+  height: 100%;
+  overflow-y: scroll;
+
+}
+
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+nav::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+nav {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+
+}
+
+nav .todo-link{
+  text-decoration: line-through;
+}
+
+nav ul {
+  padding-left: 0em;
+}
+
+nav ul li {
+  list-style-type: none;
+  padding-left: 1em;
+  padding-top:1vh;
+  padding-bottom:1vh;
+  font-weight: 700;
+  margin: 0;
+}
+
+nav ul li:hover {
+  background-color: #222;
+}
+
+nav ul li ul{
+  padding-top: 1vh;
+  margin-left: 0;
+  display: none;
+}
+
+nav ul li ul li{
+
+  padding-left: 0;
+}
+
+nav ul li ul li:hover{
+  background-color: #111;
+}
+
+nav ul li:hover ul{
+  display: block;
+}
+
+
+@media screen and (max-width: 768px){
+  nav{
+    width: 0;
+    overflow-x: hidden;
+    position: relative;
+    transition: 0.5s;
+  }
+}

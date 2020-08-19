@@ -1,0 +1,30 @@
+.officer-card{
+  grid-gap: 0.5em;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+}
+
+.officer-card p{
+  margin-bottom: 0;
+}
+
+.officer-card h2{
+  margin: 0;
+}
+
+.officer-card h3{
+  margin: 0;
+}
+
+.officer-img{
+  display: block;
+}
+
+.officer-img img{
+  width: 100%;
+float: right;
+max-height: 11em;
+max-width: 11em;
+object-fit: cover;
+}
