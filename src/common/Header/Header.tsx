@@ -1,17 +1,17 @@
+import {faBars} from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import React from "react";
 import { Component } from "react";
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import {faBars} from '@fortawesome/free-solid-svg-icons'
-import './style.css'
+import "./style.css";
 
-type HeaderProps = {
-  toggleBar: React.MouseEvent<HTMLElement,MouseEvent>
+interface HeaderProps {
+  toggleBar: (event: React.MouseEvent) => void;
 }
 
 class Header extends Component<HeaderProps> {
-    myFunction() {
-        const x :HTMLElement | null = document.getElementById("navbar");
-        if (x != null){
+    public myFunction() {
+        const x: HTMLElement | null = document.getElementById("navbar");
+        if (x != null) {
             if (x.style.display === "block") {
                 x.style.display = "none";
             } else {
@@ -21,7 +21,7 @@ class Header extends Component<HeaderProps> {
 
     }
 
-    render() {
+    public render() {
         return <header>
             <button name="menu" className="menu-button" onClick={this.props.toggleBar}><FontAwesomeIcon className="menu-button" icon={faBars} /></button>
             <h1>
