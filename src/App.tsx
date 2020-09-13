@@ -37,6 +37,7 @@ class App extends Component<unknown, SidebarState> {
 
   public handleResize = ():void => {
       const listener = window.matchMedia("(max-width: 768px)");
+      console.log("URL: " + process.env.PUBLIC_URL);
       console.log(listener.matches);
       if (listener.matches) {
           this.setState({width: "0"});
