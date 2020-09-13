@@ -35,7 +35,7 @@ class Sidebar extends Component<SidebarProps> {
                         <li><Link to="/etiquette">Etiquette</Link></li>
                     </ul>
                 </li>
-                <li><Link className="todo-link" to="/links">Links</Link></li>
+                <li><Link to="/links">Links</Link></li>
                 <li> Resources
                     <ul>
                         <li><Link className="todo-link" to="/taikai-videos">Taikai Videos</Link></li>
