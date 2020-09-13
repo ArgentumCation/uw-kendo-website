@@ -1,7 +1,7 @@
 {
-  "name": "uwkc website",
+  "name": "uwkc-website",
   "version": "0.1.0",
-  "homepage": "uwkc/",
+  "homepage": "./uwkc/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.30",
