@@ -77,9 +77,10 @@ class App extends Component<unknown, SidebarState> {
                   <Route path="/vocab" exact component={Vocab}/>
                   <Route path="/etiquette" exact component={Etiquette}/>
                   <Route path="/links" exact component={Links}/>
-                  <Route path="/taikai-videos" exact component={Links}/>
-                  <Route path="/practices" exact component={Links}/>
-                  <Route path="/pictures" exact component={Links}/>
+                  { // <Route path="/taikai-videos" exact component={Taikai}/>
+                  // <Route path="/practices" exact component={Practices}/>
+                  // <Route path="/pictures" exact component={Pictures}/>
+                  }
                   <Route component={NotFound}/>
               </Switch>
           </main>

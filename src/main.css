@@ -3,9 +3,10 @@ html, body{
   font-family: Arial, Helvetica, sans-serif;
 }
 main {
-  padding: 3em;
+  padding: 3em 10%;
   grid-area: Body;
   overflow-y: scroll;
+
 }
 
 #root {
