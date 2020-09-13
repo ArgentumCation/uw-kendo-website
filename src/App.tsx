@@ -54,7 +54,7 @@ class App extends Component<unknown, SidebarState> {
       }
   }
   public render():React.ReactElement {
-      return <Router>
+      return <Router basename={process.env.PUBLIC_URL}>
           <Header toggleBar={this.toggleBar}/>
           <Sidebar width={this.state.width} />
           <main>
