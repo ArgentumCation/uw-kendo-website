@@ -85,6 +85,6 @@ class App extends Component<unknown, SidebarState> {
   }
 }
 
-const NotFound: FunctionComponent = () => <h1>404 not found</h1>;
+const NotFound: FunctionComponent = () => <h1>404: {JSON.stringify(process.env)}</h1>;
 
 export default App;
