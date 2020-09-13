@@ -16,6 +16,7 @@ import Awards from "./Pages/Awards/Awards";
 import WarmUp from "./Pages/WarmUp/WarmUp";
 import Vocab from "./Pages/Vocab/Vocab";
 import Etiquette from "./Pages/Etiquette/Etiquette";
+import Links from "./Pages/Links/Links";
 interface SidebarState {
   width: string;
 }
@@ -70,6 +71,7 @@ class App extends Component<unknown, SidebarState> {
                   <Route path="/warmups" exact component={WarmUp}/>
                   <Route path="/vocab" exact component={Vocab}/>
                   <Route path="/etiquette" exact component={Etiquette}/>
+                  <Route path="/links" exact component={Links}/>
                   <Route component={NotFound}/>
               </Switch>
           </main>
