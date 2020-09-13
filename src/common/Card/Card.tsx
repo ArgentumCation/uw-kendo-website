@@ -16,7 +16,7 @@ const Card = ({title,body,date,image}: CardProps) => {
         {
             image &&
       <div className="img-container">
-          <img alt="" src={`Images/${image}`} style={{
+          <img alt="" src={`${process.env.PUBLIC_URL}/Images/${image}`} style={{
               maxWidth: "100%",
           }}/>
       </div>

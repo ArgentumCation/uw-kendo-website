@@ -3,7 +3,7 @@ import "./style.css";
 
 const Carousel: FunctionComponent = () => {
     return <div className="carousel">
-        <img alt="Kendo Club at the University of Washington" src={"Images/Carousel/img02.jpg"} />
+        <img alt="Kendo Club at the University of Washington" src={`${process.env.PUBLIC_URL}/Images/Carousel/img02.jpg`} />
     </div>;
 };
 
