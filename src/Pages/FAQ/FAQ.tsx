@@ -5,9 +5,9 @@ const FAQ: FunctionComponent = () => {
     return <>
         <ul>
             <li><a href="#Q0">What is Kendo?</a></li>
-            <li><a href="#Q1">I&aposve never done Kendo, can I join the club?</a></li>
+            <li><a href="#Q1">I&apos;ve never done Kendo, can I join the club?</a></li>
             <li><a href="#Q2">What should I expect on the first day?</a></li>
-            <li><a href="#Q3">I&aposve done Kendo before, can I join the club?</a></li>
+            <li><a href="#Q3">I&apos;ve done Kendo before, can I join the club?</a></li>
             <li><a href="#Q4">Do I have to be in good shape?</a></li>
             <li><a href="#Q5">Does it hurt?</a></li>
             <li><a href="#Q6">Does the club participate in tournaments?</a></li>
@@ -29,7 +29,7 @@ const FAQ: FunctionComponent = () => {
         </p>
 
         <p>
-            <b><b><a id="Q1" >I&aposve never done Kendo, can I join the club?</a></b></b>
+            <b><b><a id="Q1" >I&apos;ve never done Kendo, can I join the club?</a></b></b>
             <br />
   Absolutely. The club has a very strong beginner program. No prior
   experience is necessary. The best time to join is the very first class
@@ -54,20 +54,20 @@ const FAQ: FunctionComponent = () => {
   If you would like to read up on routine basics before you show up, you can find them <a href="/resources">Here</a> For the most part, you will be taught basics to prepare you for armored practice, which is
   like regular practice but with +15 defense.  You will learn things like footwork, swinging, and
   how to yell like a crazed monkey.
-  If you are shy and don&apost think you can yell a lot, then you are one badass nonconformer.
+  If you are shy and don&apos;t think you can yell a lot, then you are one badass nonconformer.
         </p>
         <p>
-            <b><b><a id="Q3" >I&aposve done Kendo before, can I join the club?</a></b></b>
+            <b><b><a id="Q3" >I&apos;ve done Kendo before, can I join the club?</a></b></b>
             <br />
   Anyone with previous Kendo experience is welcome to join the club
   anytime during the quarter. It is assumed that you know all the basics
-  of Kendo and will fit in with existing class groups.  If you&aposre feeling rusty,
-  let us know and you can stay out of bogu until you&aposre comfortable.
+  of Kendo and will fit in with existing class groups.  If you&apos;re feeling rusty,
+  let us know and you can stay out of bogu until you&apos;re comfortable.
         </p>
 
         <p><b><a id="Q4" >Do I have to be in good shape?</a></b><br />
 No. While it certainly does help to be in good physical shape,
-it certainly isn&apost necessary. The act of training conditions the body
+it certainly isn&apos;t necessary. The act of training conditions the body
 to do the art.  All of those senpai sitting at home playing video games all day
 attributes to this.</p>
 
@@ -91,14 +91,14 @@ Yes. We sell shinai, bokken, and uniforms. It is also possible to get
 armor through the club, though we loan out sets to use. If you wish to
 purchase armor or other Kendo-related equipment, that can also be done
 through the club.  Just be sure to let us know ahead of time when you want
-shinais, because our president doesn&apost lug his gun case around every day.</p>
+shinais, because our president doesn&apos;t lug his gun case around every day.</p>
 
         <p><b><a id="Q8" >How much does it all cost?</a></b><br />
 Club dues are $15/quarter. PNKF membership dues are $30/year.
 AUSKF membership dues are $60/year. Regional federation membership
 entitles members to participate in tournaments, promotional exams, and
 seminars. Membership in the PNKF also entitles members to take
-advantage of the &quotopen door&quot policy, which allows all PNKF members to
+advantage of the &quot;open door&quot; policy, which allows all PNKF members to
 practice at other PNKF member dojos free of charge.<br /><br />
 
 Compared to other martial arts, this is relatively cheap. The major
@@ -129,19 +129,19 @@ other local dojos.</p>
 
         <p><b><a id="Q10" >Is Kendo like the Boffing Club?</a></b><br />
 While both clubs may have enthusiastic practices, the similarities
-end there. Kendo may seem at first to be too restrictive on &quotswordplay&quot
+end there. Kendo may seem at first to be too restrictive on &quot;swordplay&quot;
 and movement, but the rewards come from dedication and patience through
 the practices over time. The discipline and mindset that evolves from
 Kendo is representative of the points we emphasize--not spontaneous
-whacking with bamboo sticks. If there is one thing Kendo isn&apost, it&aposs
+whacking with bamboo sticks. If there is one thing Kendo isn&apos;t, it&apos;s
 instant gratification.</p>
 
         <p><b><a id="Q11" >Kendo is serious business, will I fit in?</a></b><br />
 Regular practices are indeed serious and run like any other dojo.  Outside of
 practice, we hang out and have awesome parties and drink awesome bubble tea.
-Some people just want to do some Kendo and don&apost go to parties.
-Others find that Kendo isn&apost for them but hang out with us
-anyways because we&aposre awesome like that.</p>
+Some people just want to do some Kendo and don&apos;t go to parties.
+Others find that Kendo isn&apos;t for them but hang out with us
+anyways because we&apos;re awesome like that.</p>
 
         <p><b><a id="Q12" >Do you have Kendo in the Summer?</a></b><br />
 Yes.  Summer quarter Kendo starts and ends with Summer quarter at UW.  Be sure to purchase a summer IMA pass.
@@ -150,7 +150,7 @@ For those who are borrowing bogu, summer quarter extensions are available.</p>
         <p><b><a id="Q13" >I have more questions. Who can I contact?</a></b><br />
 For questions/issues regarding the club or this site, please visit one of our practices or visit our <a href="https://www.facebook.com/uwkendoclub">Facebook Page</a>.</p>
         <p><b><a id="Q14" >Where is Ted?</a></b><br />
-We&aposre not really sure, and at this point we&aposre not really sure who Ted is, but check <a href="/whereIsTed">here</a>.</p>
+We&apos;re not really sure, and at this point we&apos;re not really sure who Ted is, but check <a href="/whereIsTed">here</a>.</p>
 
     </>;
 };

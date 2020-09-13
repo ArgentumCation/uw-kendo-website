@@ -24,9 +24,9 @@ class Sidebar extends Component<SidebarProps> {
                         <li><Link to="/officers">Officers</Link></li>
                     </ul>
                 </li>
-                <li><Link to="https://www.facebook.com/uwkendoclub">Facebook</Link></li>
-                <li><Link to="https://www.instagram.com/kendo_uw/">Instagram</Link></li>
-                <li><Link to="http://mailman13.u.washington.edu/mailman/listinfo/uwkendo">Mailing List</Link></li>
+                <li><a href="https://www.facebook.com/uwkendoclub">Facebook</a></li>
+                <li><a href="https://www.instagram.com/kendo_uw/">Instagram</a></li>
+                <li><a href="http://mailman13.u.washington.edu/mailman/listinfo/uwkendo">Mailing List</a></li>
                 <li><Link to="/awards">Awards</Link></li>
                 <li> Resources
                     <ul>
@@ -43,7 +43,7 @@ class Sidebar extends Component<SidebarProps> {
                         <li><Link className="todo-link" to="/pictures">Pictures</Link></li>
                     </ul>
                 </li>
-                <li><Link className="todo-link" to="#">(屮｀∀´)屮</Link></li>
+                <li><Link style={{"display": "none"}}className="todo-link" to="#">(屮｀∀´)屮</Link></li>
             </ul>
             <hr />
             <ul>

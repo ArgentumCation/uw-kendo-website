@@ -45,7 +45,7 @@ especially senior sensei (instructors). Fostering respect and concern for fellow
 and develop physically and spiritually - is the purpose for studying kendo, and must motivate every
 consideration in the dojo.<br /><br />
 2. Shoes must be removed prior to entering the dojo, and neatly arranged so as not to create a hazard, or kept
-in one&aposs equipment bag.<br /><br />
+in one&quot;s equipment bag.<br /><br />
 3. Horseplay, fooling around, waving or throwing equipment, lounging, casual conversation during practice, or
 behaving carelessly in the dojo is strictly forbidden.<br /><br />
 4. Smoking, eating, chewing gum, or drinking of any beverage whatsoever is strictly forbidden inside the dojo.
@@ -81,18 +81,18 @@ athletic supplies.<br />
 mind the important health and safety benefits that result from keeping this posture. br /eathing is deep-, blood
 circulates freely, all the muscles are relaxed and poised, and the eyes are able to take in all surroundings
 easily. Constantly remaining in this classic stance makes it easy to accurately hit the desired target and
-minimizes or eliminates entirely &quotwild shots&quot which sting or br /uise one&aposs partner in inappropriate places. It also
-prevents twisting straining, or pulling one&aposs body painfully. Most injuries are immediate feedback letting you
+minimizes or eliminates entirely &quot;wild shots&quot which sting or br /uise one&quot;s partner in inappropriate places. It also
+prevents twisting straining, or pulling one&quot;s body painfully. Most injuries are immediate feedback letting you
 know that you are not doing what you were taught. The same may be said of ordinary everyday life. All kendo
-is based on the hypothesis that there is a &quotForce&quot (ki) which every individual can learn to tap. Without the
-proper posture, the &quotForce&quot can never flow freely or be fully available.<br /><br />
+is based on the hypothesis that there is a &quot;Force&quot (ki) which every individual can learn to tap. Without the
+proper posture, the &quot;Force&quot can never flow freely or be fully available.<br /><br />
 15. In particular, the special foot positions and footwork movements have very serious health and safety
 ramifications and must be learned thoroughly as the very first stage of kendo training. It is extremely
 important that both feet be pointed straight ahead at all times. The untrained tendency to turn or twist the left
 foot out must be altered consciously, as serious damage to the Achilles tendon may result from this action due
 to the heavy pressure advanced kendo movements br /ing to bear upon the left tendon. The orthodox kendo
 footwork also prevents blisters cracks, tears, and other minor foot injuries. The toes must slide or skim across
-the floor in the manner prescribed. This allows the kenshi to &quotfeel&quot the terrain while keeping eye contact with
+the floor in the manner prescribed. This allows the kenshi to &quot;feel&quot the terrain while keeping eye contact with
 the partner. It also keeps the toes from snagging on the skirt of the hakama, which may result in falling down,
 pulling a leg muscle, br /eaking toes, ankles, or other bones, etc. In other words, correct posture and correct
 footwork are absolutely essential to the safe as well as beautiful performance of kendo. Kendo can never be
@@ -111,8 +111,8 @@ basis, and every shinai must be inspected for cracks, splinters, tom or br /oken
 at the beginning of practice. Only perfect shinai may be used actual practice.<br /><br />
 20. During practice all kenshi must be vigilant about any damage which may occur to the shinai.
 Stop immediately to repair or replace any substandard shinai.<br /><br />
-21. During practice all kenshi must alertly listen for the command &quotYAME&quot (stop), and instantly stop
-whatever they&aposre doing and look at instructor as soon as they hear it.<br /><br />
+21. During practice all kenshi must alertly listen for the command &quot;YAME&quot (stop), and instantly stop
+whatever they&quot;re doing and look at instructor as soon as they hear it.<br /><br />
 22. For intermediate and advanced kenshi the correct wearing of bogu is required. Every kenshi must watch
 alertly to make sure his or own bogu and that of fellow kenshi has not become untied, tangled or br /oken, and
 every kenshi has the responsibility to tell others of equipment problem.<br /><br />

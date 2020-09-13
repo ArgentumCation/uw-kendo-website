@@ -17,8 +17,8 @@ const WarmUp: FunctionComponent = () => {
 
         <p>
             <b>3. Spinal Flexion and Extension</b><br />
-   Tuck chin to chest, flex the whole spine forward (don&apost lean forward), cross arms in front, spread shoulder blades apart, exhale.<br />
-   Look up at ceiling and down the wall in back of you (don&apost lean back), spread arms to sides and back, press shoulder blades together, inhale.<br />
+   Tuck chin to chest, flex the whole spine forward (don&apos;t lean forward), cross arms in front, spread shoulder blades apart, exhale.<br />
+   Look up at ceiling and down the wall in back of you (don&apos;t lean back), spread arms to sides and back, press shoulder blades together, inhale.<br />
         </p>
 
         <p>
@@ -37,7 +37,7 @@ const WarmUp: FunctionComponent = () => {
    Heels &amp; toes together, hands on knees, bend knees forward/back, side/side, circle<br />
    Keep heels on floor, carefully stretch Achilles when bending knees.<br />
    Stretch hamstrings when straightening knees.<br />
-   Keep back straight (extended), don &apost round (flex) spine.<br />
+   Keep back straight (extended), don &apos;t round (flex) spine.<br />
    Spine more vertical when bending knees, more horizontal when straightening knees.<br />
    Exhale as knees bend, inhale as knees straighten.<br />
         </p>
@@ -45,7 +45,7 @@ const WarmUp: FunctionComponent = () => {
         <p>
             <b>7. Twist</b><br />
   Feet straight ahead, shoulders width apart<br />
-  Rotate hips, shoulders and head left and right, look left and right as far as comfortably possible, don&apost force the range of motion.<br />
+  Rotate hips, shoulders and head left and right, look left and right as far as comfortably possible, don&apos;t force the range of motion.<br />
   Front arm slaps opposite shoulder, back of back hand hits opposite butt cheek.<br />
   Inhale as you twist back, exhale as you return to the front.<br />
         </p>
