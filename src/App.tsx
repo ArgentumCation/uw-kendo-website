@@ -17,6 +17,8 @@ import WarmUp from "./Pages/WarmUp/WarmUp";
 import Vocab from "./Pages/Vocab/Vocab";
 import Etiquette from "./Pages/Etiquette/Etiquette";
 import Links from "./Pages/Links/Links";
+import dotenv from "dotenv";
+
 interface SidebarState {
   width: string;
 }
@@ -55,7 +57,9 @@ class App extends Component<unknown, SidebarState> {
       }
   }
   public render():React.ReactElement {
+
       console.log("URL: " + process.env.PUBLIC_URL);
+      console.log(process.env);
       return <Router basename={process.env.PUBLIC_URL}>
           <Header toggleBar={this.toggleBar}/>
           <Sidebar width={this.state.width} />
