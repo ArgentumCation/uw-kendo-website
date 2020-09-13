@@ -1,0 +1,35 @@
+header{
+  background-color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  height: 3.5em;
+  display: flex;
+  grid-area: Header;
+  padding: 0.5rem;
+}
+
+header button {
+  float: left;
+  color: white;
+  margin: auto 0.5rem;
+  border: none;
+  background: none;
+  font-size: 150%;
+}
+header h1 {
+  margin: auto;
+  font-size: 150%;
+
+
+
+}
+header a{
+  color: white;
+  text-decoration: none;
+}
+
+@media screen and (max-width: 576px){
+  header h1{
+    margin-left: 0;
+    text-align: center;
+  }
+}
