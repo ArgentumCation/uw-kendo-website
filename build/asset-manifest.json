@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "http://students.washington.edu/uwkc/static/css/main.1e843d7f.chunk.css",
-    "main.js": "http://students.washington.edu/uwkc/static/js/main.13f14cac.chunk.js",
-    "main.js.map": "http://students.washington.edu/uwkc/static/js/main.13f14cac.chunk.js.map",
-    "runtime-main.js": "http://students.washington.edu/uwkc/static/js/runtime-main.ca1d771e.js",
-    "runtime-main.js.map": "http://students.washington.edu/uwkc/static/js/runtime-main.ca1d771e.js.map",
-    "static/js/2.d3a1ccdc.chunk.js": "http://students.washington.edu/uwkc/static/js/2.d3a1ccdc.chunk.js",
-    "static/js/2.d3a1ccdc.chunk.js.map": "http://students.washington.edu/uwkc/static/js/2.d3a1ccdc.chunk.js.map",
-    "index.html": "http://students.washington.edu/uwkc/index.html",
-    "precache-manifest.b321533193ac9905369c2c04a3b1051c.js": "http://students.washington.edu/uwkc/precache-manifest.b321533193ac9905369c2c04a3b1051c.js",
-    "service-worker.js": "http://students.washington.edu/uwkc/service-worker.js",
-    "static/css/main.1e843d7f.chunk.css.map": "http://students.washington.edu/uwkc/static/css/main.1e843d7f.chunk.css.map",
-    "static/js/2.d3a1ccdc.chunk.js.LICENSE.txt": "http://students.washington.edu/uwkc/static/js/2.d3a1ccdc.chunk.js.LICENSE.txt"
+    "main.css": "/uwkc/static/css/main.1e843d7f.chunk.css",
+    "main.js": "/uwkc/static/js/main.7241c78b.chunk.js",
+    "main.js.map": "/uwkc/static/js/main.7241c78b.chunk.js.map",
+    "runtime-main.js": "/uwkc/static/js/runtime-main.e5bddbe4.js",
+    "runtime-main.js.map": "/uwkc/static/js/runtime-main.e5bddbe4.js.map",
+    "static/js/2.d3a1ccdc.chunk.js": "/uwkc/static/js/2.d3a1ccdc.chunk.js",
+    "static/js/2.d3a1ccdc.chunk.js.map": "/uwkc/static/js/2.d3a1ccdc.chunk.js.map",
+    "index.html": "/uwkc/index.html",
+    "precache-manifest.c06e3168eb1536dfa1caed060dccf70c.js": "/uwkc/precache-manifest.c06e3168eb1536dfa1caed060dccf70c.js",
+    "service-worker.js": "/uwkc/service-worker.js",
+    "static/css/main.1e843d7f.chunk.css.map": "/uwkc/static/css/main.1e843d7f.chunk.css.map",
+    "static/js/2.d3a1ccdc.chunk.js.LICENSE.txt": "/uwkc/static/js/2.d3a1ccdc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.ca1d771e.js",
+    "static/js/runtime-main.e5bddbe4.js",
     "static/js/2.d3a1ccdc.chunk.js",
     "static/css/main.1e843d7f.chunk.css",
-    "static/js/main.13f14cac.chunk.js"
+    "static/js/main.7241c78b.chunk.js"
   ]
 }
