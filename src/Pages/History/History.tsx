@@ -13,8 +13,7 @@ const History: FunctionComponent = () => {
   Peter Mizuki,
   Luke Shindo,
   John Sullivan,
-  and Denny Wong.Practices were held in a handball court in the Hec Ed Pavilion.From that time till now,
-  Marsten Sensei has kept his commitment to the Club and still comes every Wednesday to teach.</p>
+  and Denny Wong.Practices were held in a handball court in the Hec Ed Pavilion.</p>
 
         <p>An official Constitution was filed on January 5,
   1973. Officers were listed as John Sullivan,
