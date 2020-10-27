@@ -131,9 +131,42 @@ Tenugui- head towel/cloth worn during training to contain sweat</li>
             <li>Kaeshi Waza- blocking the shinai on one side to counter on the other (Ex. kaeshi men)</li>
 
         </ul>
+        <h3>Shiai Terms</h3>
+        <ul>
+           <li>Taikai- tournament</li>
+           <li>Shiai- competition/contest</li>
+           <li>San-bon-shobu- match decided by two out of three points. If one player scores the first two points, the last point is not carried out. </li>
+           <li>Shinpan- Judges/match referees</li>
+           <li>Shushin- head/executive judge/referee</li>
+           <li>Hajime- “begin the round”</li>
+           <li>Yame- “stop the round”</li>
+           <li>Men-ari- declared by shinpan on the scoring of a successful men cut</li>
+           <li>Kote-ari- declared by the shinpan on the scoring of a successful kote cut</li>
+           <li>Dou-ari- declared by the shinpan on the scoring of a successful dou cut</li>
+           <li>Tsuki-ari- declared by the shinpan on the scoring of a successful tsuki</li>
+           <li>Wakare- command to the players to step back to issoku ittō no maai</li>
+           <li>Hansoku- prohibited action during a match/foul (ex. Stepping outside of the court, dropping shinai, etc.)</li>
+           <ul>
+                <li>Hansoku ikkai- first foul</li>
+                <li>Hansoku ni-kai- second foul. Two fouls will result in the opponent scoring a point.</li>
+            </ul>
+           <li>Nihon-me- called by the shinpan to resume the match after a point is successfully scored (1-0 score)</li>
+           <li>Shobu- called by the shinpan to resume the match after the second point is successfully scored(1-1 score)</li>
+           <li>Encho- extension. Called when the match times out without a victor declared.</li>
+           <li>Gogi- temporary suspension of a match to which the shinpan hold a small conference in the middle of the court to determine the victor of a match without having a point scored.</li>
+           <li>Hikiwake- draw</li>
+           <li>Shobu-ari- called by the shinpan to signal the end of the match with a clear victor.</li>
 
-
-
+        </ul>
+        <b>Team Matches</b>
+        <ul>
+           <p> Team matches are conducted in a five on five san-bon-shobu format. The corresponding player of one team is paired with the player of the same position of the other team. (ie. sempo of team 1 spars with sempo of team 2, jiho with joho, etc.)</p>
+           <li>Senpo- head player</li>
+           <li>Jiho- second player</li>
+           <li>Chuken- third player</li>
+           <li>Fukusho- fourth player</li>
+           <li>Taisho- final player</li>
+        </ul>
     </div>;
 };
 

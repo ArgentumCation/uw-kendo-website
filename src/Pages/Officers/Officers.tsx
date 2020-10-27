@@ -12,12 +12,12 @@ const Officers: FunctionComponent = () => {
         <OfficerCard position="Webmaster" name="Linni Cai" image="Officers/linni.jpg"/>
         <OfficerCard position="Treasurer" name="Andy Yuen" image="Officers/andy.jpg"/>
         <OfficerCard position="Safety Officer" name="Cian Alexander Chu" quote="clip your toenails" image="Officers/cian.jpg"/>
+        <OfficerCard position="Safety Officer" name="Welson Nguyen" image="Officers/welson.jpg"/>
         <OfficerCard position="" name="Juno Lee" image="Officers/juno.jpg"/>
         <OfficerCard position="" name="AJ Chau" image="Officers/aj.jpg"/>
         <OfficerCard position="" name="Brian Hong" image="Officers/brian_h.jpg"/>
         <OfficerCard position="" name="Camille Miller" image="Officers/camille.jpg"/>
         <OfficerCard position="" name="Kyle Fukuda" image="Officers/kyle.jpg"/>
-        <OfficerCard position="" name="Welson Nguyen" image="Officers/welson.jpg"/>
     </>;
 };
 export default Officers;
